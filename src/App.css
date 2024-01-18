@@ -1,0 +1,46 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  display: block;
+  justify-content: center;
+}
+.card-box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+.box {
+  width: 300px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 20px;
+  height: 250px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.box h3 {
+  font-size: 24px;
+}
+.box span {
+  font-size: 14px;
+  color: red;
+}
+.box p {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+.box button {
+  background-color: red;
+  color: white;
+  padding: 8px 32px;
+  border: 1px solid red;
+  cursor: pointer;
+}
+.box button:hover {
+  background-color: white;
+  color: red;
+}

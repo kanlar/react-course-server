@@ -1,0 +1,34 @@
+{
+    "course":[
+        {
+            "id": 1,
+            "title":"Angular",
+            "price": "69TL",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut sed ex dolores voluptatibus explicabo iste impedit qui assumenda aliquid minima."
+        },
+        {
+            "id": 2,
+            "title":"Bootstrap",
+            "price": "69TL",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut sed ex dolores voluptatibus explicabo iste impedit qui assumenda aliquid minima."
+        },
+        {
+            "id": 3,
+            "title":"C programlama",
+            "price": "69TL",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut sed ex dolores voluptatibus explicabo iste impedit qui assumenda aliquid minima."
+        },
+        {
+            "id": 4,
+            "title":"Frontend Kursu",
+            "price": "69TL",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut sed ex dolores voluptatibus explicabo iste impedit qui assumenda aliquid minima."
+        },
+        {
+            "id": 5,
+            "title":"HTML",
+            "price": "0TL",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut sed ex dolores voluptatibus explicabo iste impedit qui assumenda aliquid minima."
+        }
+    ]
+}
